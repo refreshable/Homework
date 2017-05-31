@@ -7,6 +7,8 @@ class Program
         int n = int.Parse(Console.ReadLine());
         int kcal = 0;
         string product = "";
+
+        //добашчм глупост тук
         for (int i = 0; i < n; i++)
         {
             product = Console.ReadLine().ToLower();
