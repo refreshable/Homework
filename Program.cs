@@ -21,6 +21,8 @@ class Program
 
                 default:
                     continue;
+// добавям втора глупост
+
             }
         }
         Console.WriteLine($"Total calories: {kcal}");
